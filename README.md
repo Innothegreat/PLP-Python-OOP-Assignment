@@ -16,7 +16,6 @@ We created a **Smartphone** class that inherits from a base **Device** class.
 - **Child Class (`Smartphone`)**
   - Attributes: `storage`, `battery`
   - Methods:
-    - `make_call(number)` → Simulates making a call.
     - `check_storage()` → Shows available storage.
     - `check_battery()` → Shows battery capacity.
 
