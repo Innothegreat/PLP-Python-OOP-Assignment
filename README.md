@@ -23,7 +23,8 @@ We created a **Smartphone** class that inherits from a base **Device** class.
 ```python
 phone1 = Smartphone("Samsung", "Galaxy S23", 256, 5000)
 print(phone1.device_info())
-print(phone1.make_call("0723456789"))
+print(phone1.check_storage())
+print(phone1.check_battery())
 ```
 
 ---
